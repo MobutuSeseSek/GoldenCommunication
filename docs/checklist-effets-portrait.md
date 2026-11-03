@@ -1,4 +1,4 @@
-# Checklist des effets — portrait de l'intervenant
+# Checklist des effets — portrait de l'intervenant et logo
 
 Source : portrait carré 1254 × 1254 px, RVB, plan poitrine, regard caméra, lumière douce et frontale.
 Destination : affiche 1080 × 1080 px aux couleurs Bleu #004165, Marron #772432, Jaune #f2df74, Blanc #ffffff.
@@ -50,6 +50,17 @@ L'objectif est de retoucher le moins possible. Le visage, la tenue et le badge r
 - [ ] Contrôle à la taille d'une vignette de téléphone (environ 360 px de large) : le visage doit rester lisible et le regard identifiable.
 - [ ] Test d'envoi WhatsApp : la compression y est forte, vérifier que les carreaux de la veste ne se brouillent pas.
 
+## 7. Logo Toastmasters International
+
+Fichier reçu : JPEG de 477 × 419 px, sur un fond qui n'est ni transparent ni blanc pur (gris clair, entre 236 et 254 selon les coins), avec des artefacts de compression autour des lettres et du globe.
+
+- [ ] Remplacer ce fichier par la version officielle, en PNG transparent ou en vectoriel, téléchargée depuis les ressources de marque réservées aux membres de Toastmasters. Une image récupérée sur un site de cliparts n'est pas un fichier de référence.
+- [ ] À défaut de fichier officiel, ne pas détourer le JPEG à la main. Le poser sur une zone blanche de l'affiche et vérifier qu'aucun cadre gris ne se voit autour.
+- [ ] Ne rien modifier dans le logo : couleurs, proportions, typographie, globe, mention « ® ». Pas de recadrage, pas de rotation, pas d'ombre, pas de contour.
+- [ ] Ne pas le teinter pour l'accorder au fond. Ses couleurs sont déjà celles de la charte : Bleu #004165, Marron #772432, Jaune #f2df74.
+- [ ] Réserver une marge vide autour du logo, au moins égale à la hauteur des lettres de « TOASTMASTERS ».
+- [ ] Taille sur l'affiche 1080 × 1080 : environ 160 à 200 px de large. Le fichier de 477 px y reste en réduction, mais la mention « INTERNATIONAL » doit rester lisible sur une vignette de téléphone.
+
 ## À proscrire
 
-Lissage de peau, blanchiment du teint, yeux agrandis, recoloration de la veste, halo ou lueur autour du sujet, flou d'arrière-plan qui laisse le lettrage visible, effet 3D, ombre dure.
+Lissage de peau, blanchiment du teint, yeux agrandis, recoloration de la veste, halo ou lueur autour du sujet, flou d'arrière-plan qui laisse le lettrage visible, effet 3D, ombre dure. Côté logo : déformation, recoloration, logo posé sur la photo, fond gris visible.
